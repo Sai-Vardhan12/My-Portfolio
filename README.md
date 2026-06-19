@@ -16,6 +16,18 @@ I enjoy building intelligent solutions that leverage data to solve real-world pr
 * **Data Engineering Tools:** Pentaho (PDI), WEKA
 * **Cloud & Database Technologies:** Oracle Cloud Infrastructure, Oracle DBA 21c
 
+##💼** Internship Experience**
+**Data Science Intern**
+
+Solaiera | 3 months
+
+Worked on data preprocessing, cleaning, and exploratory data analysis (EDA) using Python and Pandas.
+Developed machine learning models for predictive analytics and performance evaluation.
+Created interactive dashboards and reports using Power BI/Tableau to derive actionable insights.
+Collaborated with team members to analyze datasets and identify patterns for business decision-making.
+Applied statistical techniques and data visualization methods to communicate findings effectively.
+Gained hands-on experience with real-world datasets, model development, and deployment workflows.
+
 ## 📊 Featured Projects
 
 ### 🏥 Medi-Bot: Medical Assistance Chatbot
