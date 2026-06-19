@@ -16,7 +16,7 @@ I enjoy building intelligent solutions that leverage data to solve real-world pr
 * **Data Engineering Tools:** Pentaho (PDI), WEKA
 * **Cloud & Database Technologies:** Oracle Cloud Infrastructure, Oracle DBA 21c
 
-##💼** Internship Experience**
+ ## 💼 Internship Experience
 **Data Science Intern**
 
 Solaiera | 3 months
