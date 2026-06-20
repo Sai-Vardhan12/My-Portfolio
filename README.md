@@ -39,7 +39,7 @@ Developed an AI-powered chatbot that assists users by providing medical informat
 Implemented deep learning techniques for accurate object detection in hyperspectral imagery, focusing on improving detection performance and classification accuracy.
 
 ### SecureSight AI - AI Powered Security Log Analyzer
-
+Developed an AI-powered Security Log analyzer similar to SOC analyst to know threats and alert prediction.
 ## 🎯 Career Objective
 
 I am seeking opportunities to apply my technical knowledge, analytical thinking, and problem-solving abilities in Data Science, Machine Learning, and AI-driven projects while contributing to innovative and impactful solutions.
