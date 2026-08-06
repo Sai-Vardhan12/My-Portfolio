@@ -304,10 +304,15 @@ nav{
 .skills-grid,
     .project-grid,
     .education-grid,
-    .experience-grid{
+.experience-grid{
     display:grid;
     grid-template-columns:repeat(3,minmax(250px,1fr));
     gap:30px;
+}
+
+/* Space consecutive internship entries apart. */
+#internship .experience-grid + .experience-grid{
+    margin-top:30px;
 }
 
 .skill-group{
